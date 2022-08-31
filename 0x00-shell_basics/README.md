@@ -1,1 +1,1 @@
-#Read me file for script description
+# alx-system_engineering-devops/0x00-shell_basics
